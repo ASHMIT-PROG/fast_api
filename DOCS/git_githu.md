@@ -53,3 +53,10 @@ local_develop
               │ push
               ▼
 feature/project-setup   -  github
+
+git push   -u   origin   local_feature/project-setup:feature/project-setup
+   │        │      │                    │
+   │        │      │                    └── source : destination
+   │        │      └── GitHub remote
+   │        └── set upstream
+   └── upload commits
