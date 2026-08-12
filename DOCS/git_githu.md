@@ -47,3 +47,9 @@ local_develop
        \
         \
          local_feature/project-setup
+
+         local_feature/project-setup  - git
+              │
+              │ push
+              ▼
+feature/project-setup   -  github
