@@ -31,3 +31,25 @@ local_develop
                     │
                     ▼
                  develop
+
+                 LOCAL                         GITHUB
+
+LOCAL                         GITHUB
+
+local_main  ───────────────► main
+
+local_develop ─────────────► develop
+
+local_develop
+      │
+      ▼
+      A
+       \
+        \
+         local_feature/project-setup
+
+         local_feature/project-setup  - git
+              │
+              │ push
+              ▼
+feature/project-setup   -  github
