@@ -60,3 +60,21 @@ git push   -u   origin   local_feature/project-setup:feature/project-setup
    │        │      └── GitHub remote
    │        └── set upstream
    └── upload commits
+
+
+
+   main
+  │
+  └── develop
+        │
+        └── patient_management_system_api
+                │
+                ├── feature 1
+                ├── feature 2
+                ├── feature 3
+                └── ...
+
+
+   to delete a branch : git branch -d local_feature/started_1
+
+   
