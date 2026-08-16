@@ -33,4 +33,4 @@ http status codes:HTTP status code basically tells the client what happened to t
 
 HTTP Exception - used to return custom http exception if somethings happen with your api
 ---------------------------------------
-QUERY PARAMETER:
+post req
